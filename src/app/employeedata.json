@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "age": 30,
+        "email": "john.doe@example.com"
+    } , 
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "age": 25,
+        "email": "jane.smith@example.com"
+    },
+    {
+        "id": 3,
+        "name": "Jim sri",
+        "age": 35,
+        "email": "jim.sri@example.com"
+    },
+    {
+        "id": 4,
+        "name": "Sara Connor",
+        "age": 28,
+        "email": "sara.connor@example.com"
+    },
+    {
+        "id": 5,
+        "name": "Mike Johnson",
+        "age": 40,
+        "email": "mike.johnson@example.com"
+    },
+    {
+    "id": 6,
+    "name": "Sarah Chen",
+    "age": 28,
+    "email": "sarah.chen@example.com"
+  },
+  {
+    "id": 7,
+    "name": "David Lee",
+    "age": 55,
+    "email": "david.lee@example.com"
+  },
+  {
+    "id": 8,
+    "name": "Emily Rodriguez",
+    "age": 32,
+    "email": "emily.rodriguez@example.com"
+  },
+  {
+    "id": 9,
+    "name": "Alex Takeda",
+    "age": 24,
+    "email": "alex.takeda@example.com"
+  },
+  {
+    "id": 10,
+    "name": "Jessica Brown",
+    "age": 47,
+    "email": "jessica.brown@example.com"
+  }
+]
