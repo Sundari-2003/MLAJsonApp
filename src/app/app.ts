@@ -9,7 +9,6 @@ import { CommonModule } from '@angular/common';
   selector: 'app-root',
   imports: [
     CommonModule,
-    RouterOutlet,
     DataTablesModule
 
   ],
